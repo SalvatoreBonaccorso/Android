@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Esercitazione04_12_2018</string>
+    <string name="Exercize_title_hint">Enter a number</string>
+    <string name="text">text</string>
+    <string name="btn_click_me">CLICK ME</string>
+    <string name="btn_back">BACK</string>
+    <string name="error_text">Empty text</string>
+</resources>
